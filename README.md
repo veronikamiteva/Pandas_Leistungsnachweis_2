@@ -1,4 +1,4 @@
-# Leistungsnachweis_3
+# Leistungsnachweis_2
 
 ## Zusammenhang zwischen Müttersterblichkeitsrate und Armut von 1990 bis 2020
 
@@ -15,6 +15,6 @@ In dieser Arbeit analysieren wir den Zusammenhang zwischen der Müttersterblichk
 ### Fragestellung:
 
 Besteht eine Korrelation zwischen der Müttersterblichkeitsrate und der Armutsrate in verschiedenen Ländern zwischen 1990 und 2020?
-(Welche Länder zeigen den stärksten positiven oder negativen Zusammenhang zwischen diesen beiden Variablen?)
+Welche Länder zeigen den stärksten positiven oder negativen Zusammenhang zwischen diesen beiden Variablen?
 Welche möglichen Ursachen gibt es für die erkannten Zusammenhänge?
 
